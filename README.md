@@ -1,7 +1,14 @@
 [![Coverage
 Status](https://coveralls.io/repos/github/AndreasSko/go-jwlm/badge.svg?branch=master)](https://coveralls.io/github/AndreasSko/go-jwlm?branch=master)
 
-# go-jwlm
+# go-jwlm - web version
+Based on the work of https://github.com/AndreasSko/go-jwlm, I just made webinterface for it.
+All files are available here.
+
+You can try it here: https://jwlmerge.02072005.xyz
+
+
+
 A command-line tool to easily merge JW Library backups, written in Go.
 For the iOS version, visit [ios-jwlm](https://github.com/AndreasSko/ios-jwlm).
 
