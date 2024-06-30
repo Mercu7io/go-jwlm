@@ -8,7 +8,7 @@ All files are available here.
 You can try it here: https://jwlmerge.02072005.xyz
 
 
-
+# go-jwlm
 A command-line tool to easily merge JW Library backups, written in Go.
 For the iOS version, visit [ios-jwlm](https://github.com/AndreasSko/ios-jwlm).
 
